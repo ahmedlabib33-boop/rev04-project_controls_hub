@@ -1,44 +1,25 @@
-# Secrets
-.env
-.env.local
-secrets.toml
-
-# Python
-__pycache__/
+﻿__pycache__/
 *.py[cod]
-*$py.class
-*.so
-.Python
+*.pyo
+*.pyd
+
+.venv/
 venv/
 env/
-.venv/
 
-# Logs
-logs/
 *.log
+*.tmp
+~$*
 
-# Cache
-.cache/
-.pytest_cache/
-
-# Data (keep structure, ignore content)
-projects/*/data/import_templates/*.csv
-projects/*/data/import_templates/*.xlsx
-projects/*/source_excel/*.csv
-projects/*/source_excel/*.xlsx
-projects/*/letters_intelligence/inbox/*
-projects/*/2-contracts/source/*
-projects/*/2-contracts/evidence/*
-projects/*/3-evidence/*
-projects/*/4-notes/*
-projects/*/outputs/*
-projects/*/logs/*
-
-# Sync state
-.sync_state/
-
-# IDE
+.DS_Store
+Thumbs.db
 .vscode/
 .idea/
-*.swp
-*.swo
+
+.streamlit/secrets.toml
+
+*.bak
+*.bak_*
+*.zip
+
+_project_understanding_report/
