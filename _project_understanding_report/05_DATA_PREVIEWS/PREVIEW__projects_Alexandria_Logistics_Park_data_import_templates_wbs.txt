@@ -1,0 +1,7 @@
+﻿wbs_code,wbs_name,level,parent_code,weight
+ALP-PM,Project Management and Controls,1,,5
+ALP-ENG,"Engineering, Permits and Approvals",1,,10
+ALP-PROC,Procurement and Long Lead Materials,1,,15
+ALP-CIV,Civil and Structural Works,1,,35
+ALP-MEP,MEP and Specialist Systems,1,,20
+ALP-COM,"Testing, Commissioning and Handover",1,,15

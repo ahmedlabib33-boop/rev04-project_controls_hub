@@ -1,0 +1,16 @@
+{
+  "project_id": "",
+  "project_display_name": "New Project",
+  "status": "active",
+  "created_at": "",
+  "updated_at": "",
+  "version": "1.0.0",
+  "sector": "construction",
+  "currency": "USD",
+  "contract_type": "lump_sum",
+  "parties": {
+    "employer": "",
+    "contractor": "",
+    "consultant": ""
+  }
+}

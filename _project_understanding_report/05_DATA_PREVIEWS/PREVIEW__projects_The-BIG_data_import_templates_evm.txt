@@ -1,0 +1,30 @@
+﻿project_id,activity_id,activity_name,period,BAC,AC,EV,PV,CPI,SPI,CV,SV
+The Big -P.01-UP-20-April-26,KD-MS-1000,Project Start Date,May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,KD-MS-1010,Contract Agreement,May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,KD-MS-1020,IFC Drawing Package,May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MS-1000,Submittal for RFT Rebar,May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-DR-1000,Design Review,May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-REP-1000,Submittal for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs  (B01),May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-REP-1000,Submittal for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs (B02),May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,KD-MOB-1000,Surveying Works,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,KD-MOB-1010,Equipment Mobilization,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,KD-MOB-1020,Site Preparation,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MS-1020,Submittal for Soil Replacement,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MS-1010,Submittal for Plain Concrete,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-FOOT-1000,Submittal for PC Raft Conc. Dim. DWGs (B01) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MS-1030,Submittal for Rc Concrete,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-FOOT-1000,Submittal for  Waterproofing Layout Plan (B04),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-FOOT-1000,Approval for PC Raft Conc. Dim. DWGs (B01) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-FOOT-1020,Approval for RC Raft & Footings RFT DWGs (B01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MS-1060,Submittal for cold Crystalline waterproofing for Water tank,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MS-1040,Submittal for Waterproofing,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MS-1050,Submittal for cold applied damp-proofing,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-REP-1000,Approval for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs (B02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MPOS-1000,P.O for Rebar Patch#1 (Footing & Water tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-REP-1000,Submittal for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs (B03),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-FOOT-1020,Submittal for RC Raft & Footings RFT DWGs (B01) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-FOOT-1030,Submittal for  Waterproofing Layout Plan (B01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MA-1000,Approval for RFT Rebar,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-REP-1000,Approval for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs (B01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-WT-1000,Excavation for Water Tank (+198.15) (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-FOOT-1010,Submittal for RC Raft & Footings Conc. Dim. DWGs (B01) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0

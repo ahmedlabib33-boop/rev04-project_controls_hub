@@ -1,0 +1,4 @@
+﻿event_id,event_description,event_type,start_date,end_date,duration_days,responsibility,entitlement,affected_activities,status
+NCAP-DE-001,Late authority permit response delayed engineering release and early works access,Permit / Authority Delay,2025-07-21,2025-08-12,23,Authority / Employer,EOT Potential,NCAP-A002;NCAP-A004,Closed - Impact Recorded
+NCAP-DE-002,Long-lead material supplier slippage affected procurement release and downstream installation,Procurement Delay,2025-10-29,2025-11-28,31,Contractor / Supplier,Mitigation Required,NCAP-A003;NCAP-A005,Open
+NCAP-DE-003,Design clarification cycle extended shop drawing approval for critical work front,RFI / Design Clarification,2025-12-18,2026-01-07,21,Engineer / Contractor,Concurrent Review Required,NCAP-A004,Under Review

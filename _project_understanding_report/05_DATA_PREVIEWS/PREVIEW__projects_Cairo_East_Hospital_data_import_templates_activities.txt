@@ -1,0 +1,7 @@
+﻿activity_id,activity_name,wbs_code,planned_start,planned_finish,actual_start,actual_finish,duration_planned,duration_actual,progress_percent,status
+CEH-A001,"Mobilization, Survey and Temporary Facilities",CEH-PM,2025-08-01,2025-08-21,2025-08-01,2025-08-25,21,25,100,Completed
+CEH-A002,"Design Review, Permits and Authority Approvals",CEH-ENG,2025-08-11,2025-10-30,2025-08-16,2025-11-24,81,101,100,Completed
+CEH-A003,Procurement of Long Lead Materials,CEH-PROC,2025-09-15,2026-01-13,2025-09-30,,121,249,78,In Progress
+CEH-A004,Main Civil and Structural Works,CEH-CIV,2025-10-20,2026-06-07,2025-11-09,,231,209,55,In Progress
+CEH-A005,MEP First Fix and Specialist Systems Installation,CEH-MEP,2026-03-09,2026-10-05,2026-04-18,,211,49,22,In Progress
+CEH-A006,"Testing, Commissioning and Client Handover",CEH-COM,2026-11-04,2027-01-23,,,81,,0,Not Started

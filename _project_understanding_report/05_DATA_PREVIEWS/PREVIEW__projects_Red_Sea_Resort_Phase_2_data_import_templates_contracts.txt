@@ -1,0 +1,2 @@
+﻿contract_id,contract_name,contract_value,signed_date,completion_date,status,party_employer,party_contractor
+RSR2-CON-001,Building and Finishing EPC Works - Red Sea Resort Phase 2,760000000,2025-10-01,2027-09-30,Active,Red Sea Hospitality Investments,Coastal Developments Construction

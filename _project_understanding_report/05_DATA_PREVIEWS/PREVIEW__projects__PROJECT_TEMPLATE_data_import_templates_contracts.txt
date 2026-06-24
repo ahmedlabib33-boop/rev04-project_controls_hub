@@ -1,0 +1,4 @@
+﻿contract_id,contract_name,contract_value,signed_date,completion_date,status,party_employer,party_contractor
+CNT-001,Main Construction Contract,5000000,2023-12-01,2025-06-30,active,Client Corp,Builder Inc
+CNT-002,Steel Supply Agreement,800000,2023-11-15,2024-12-31,active,Client Corp,Steel Supplier Ltd
+CNT-003,Electrical Works,450000,2024-01-10,2025-03-31,active,Client Corp,Electro Systems

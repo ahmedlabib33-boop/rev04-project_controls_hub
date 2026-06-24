@@ -1,0 +1,14 @@
+{
+  "repo_owner": "",
+  "repo_name": "",
+  "branch": "main",
+  "sync_deletions": false,
+  "exclude_patterns": [
+    "*.log",
+    "__pycache__/*",
+    ".env*",
+    "*.pyc",
+    ".cache/*",
+    ".pytest_cache/*"
+  ]
+}

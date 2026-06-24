@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 200 60">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00d4aa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00a8e8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="60" fill="#0d1117" rx="8"/>
+  <rect x="4" y="4" width="52" height="52" fill="url(#grad)" rx="8"/>
+  <text x="16" y="38" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">S</text>
+  <text x="68" y="28" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#e2e8f0">SAMCO</text>
+  <text x="68" y="46" font-family="Arial, sans-serif" font-size="10" fill="#8899a6" letter-spacing="2">PROJECT CONTROLS</text>
+</svg>

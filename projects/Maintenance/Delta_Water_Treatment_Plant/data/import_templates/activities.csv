@@ -1,0 +1,7 @@
+﻿activity_id,activity_name,wbs_code,planned_start,planned_finish,actual_start,actual_finish,duration_planned,duration_actual,progress_percent,status
+DWTP-A001,"Mobilization, Survey and Temporary Facilities",DWTP-PM,2025-06-01,2025-06-21,2025-06-01,2025-06-25,21,25,100,Completed
+DWTP-A002,"Design Review, Permits and Authority Approvals",DWTP-ENG,2025-06-11,2025-08-30,2025-06-16,2025-09-24,81,101,100,Completed
+DWTP-A003,Procurement of Long Lead Materials,DWTP-PROC,2025-07-16,2025-11-13,2025-07-31,,121,310,78,In Progress
+DWTP-A004,Main Civil and Structural Works,DWTP-CIV,2025-08-20,2026-04-07,2025-09-09,,231,270,55,In Progress
+DWTP-A005,MEP First Fix and Specialist Systems Installation,DWTP-MEP,2026-01-07,2026-08-05,2026-02-16,,211,110,22,In Progress
+DWTP-A006,"Testing, Commissioning and Client Handover",DWTP-COM,2026-09-04,2026-11-23,,,81,,0,Not Started

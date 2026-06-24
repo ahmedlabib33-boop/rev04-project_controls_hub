@@ -1,0 +1,5 @@
+﻿event_id,event_description,event_type,start_date,end_date,duration_days,responsibility,entitlement,affected_activities,status
+BIG-DE-001,Delayed effective site handover due to domestic water pipe leakage between B01 and B02,Site Handover / Physical Obstruction,2025-09-11,2025-10-10,29,Employer,EOT Potential,BIG-A002;BIG-A003;BIG-A004,Notified
+BIG-DE-002,Employer free-issue reinforcement steel depleted causing work stoppage until next supply and restart,Employer Free Issue Material Delay,2025-12-31,2026-02-16,47,Employer,EOT and Cost Potential,BIG-A003;BIG-A004;BIG-A005,Under TIA Assessment
+BIG-DE-003,IFC conflict in columns and slabs requiring redesign; final IFC issued on 30-Apr-2026,Delayed Drawings / IFC Conflict,2026-03-23,2026-04-30,38,Engineer / Employer,EOT Potential,BIG-A005;BIG-A006;BIG-A007,Resolved - Impact Ongoing
+BIG-DE-004,Late MEP coordination and sleeves approval impacting water tank and structural embedded items,Coordination / Approval Delay,2026-04-01,2026-05-15,44,Employer / Engineer,EOT Potential,BIG-A007,Open

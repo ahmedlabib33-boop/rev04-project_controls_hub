@@ -1,0 +1,6 @@
+﻿material_type,diameter,quantity,delivery_date,source,status
+Reinforcement Steel,D12-D16,300,2025-10-10,Employer Free Issue,Delivered
+Reinforcement Steel,D16-D20,250,2025-11-15,Employer Free Issue,Delivered
+Reinforcement Steel,D20-D25,150,2025-12-20,Employer Free Issue,Delivered
+Reinforcement Steel,D12-D32,600,2026-02-13,Employer Free Issue,Delivered After Stoppage
+Reinforcement Steel,D12-D32,500,2026-05-05,Employer Free Issue,Delivered - Steel Patch 2

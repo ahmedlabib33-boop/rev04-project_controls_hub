@@ -1,0 +1,7 @@
+﻿wbs_code,wbs_name,level,parent_code,weight
+CEH-PM,Project Management and Controls,1,,5
+CEH-ENG,"Engineering, Permits and Approvals",1,,10
+CEH-PROC,Procurement and Long Lead Materials,1,,15
+CEH-CIV,Civil and Structural Works,1,,35
+CEH-MEP,MEP and Specialist Systems,1,,20
+CEH-COM,"Testing, Commissioning and Handover",1,,15

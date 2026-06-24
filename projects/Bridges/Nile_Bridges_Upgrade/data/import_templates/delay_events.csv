@@ -1,0 +1,4 @@
+﻿event_id,event_description,event_type,start_date,end_date,duration_days,responsibility,entitlement,affected_activities,status
+NBU-DE-001,Late authority permit response delayed engineering release and early works access,Permit / Authority Delay,2025-06-04,2025-06-26,23,Authority / Employer,EOT Potential,NBU-A002;NBU-A004,Closed - Impact Recorded
+NBU-DE-002,Long-lead material supplier slippage affected procurement release and downstream installation,Procurement Delay,2025-09-12,2025-10-12,31,Contractor / Supplier,Mitigation Required,NBU-A003;NBU-A005,Open
+NBU-DE-003,Design clarification cycle extended shop drawing approval for critical work front,RFI / Design Clarification,2025-11-01,2025-11-21,21,Engineer / Contractor,Concurrent Review Required,NBU-A004,Under Review

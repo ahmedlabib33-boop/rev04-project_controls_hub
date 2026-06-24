@@ -1,0 +1,6 @@
+﻿material_type,diameter,quantity,delivery_date,source,status
+Reinforcement Steel,D10-D12,180,2025-07-04,Contractor Procurement,Delivered
+Reinforcement Steel,D16,220,2025-08-03,Contractor Procurement,Delivered
+Reinforcement Steel,D20,260,2025-09-22,Contractor Procurement,Delivered
+Reinforcement Steel,D25,300,2025-11-16,Contractor Procurement,Partial Delivered
+Reinforcement Steel,D32,200,2026-01-10,Contractor Procurement,Planned

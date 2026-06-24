@@ -1,0 +1,4 @@
+﻿event_id,event_description,event_type,start_date,end_date,duration_days,responsibility,entitlement,affected_activities,status
+CEH-DE-001,Late authority permit response delayed engineering release and early works access,Permit / Authority Delay,2025-08-21,2025-09-12,23,Authority / Employer,EOT Potential,CEH-A002;CEH-A004,Closed - Impact Recorded
+CEH-DE-002,Long-lead material supplier slippage affected procurement release and downstream installation,Procurement Delay,2025-11-29,2025-12-29,31,Contractor / Supplier,Mitigation Required,CEH-A003;CEH-A005,Open
+CEH-DE-003,Design clarification cycle extended shop drawing approval for critical work front,RFI / Design Clarification,2026-01-18,2026-02-07,21,Engineer / Contractor,Concurrent Review Required,CEH-A004,Under Review

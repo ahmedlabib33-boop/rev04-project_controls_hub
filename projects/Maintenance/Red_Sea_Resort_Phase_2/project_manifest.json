@@ -1,0 +1,19 @@
+{
+  "project_id": "6e1d0be9-9263-4202-9fbc-03786b9156c3",
+  "project_display_name": "Red Sea Resort Phase 2",
+  "status": "active",
+  "created_at": "2026-06-23T20:18:42.514556",
+  "updated_at": "2026-06-24T05:34:21.880116",
+  "version": "1.0.0",
+  "sector": "Maintenance",
+  "currency": "USD",
+  "contract_type": "lump_sum",
+  "parties": {
+    "employer": "",
+    "contractor": "",
+    "consultant": ""
+  },
+  "project_folder_name": "Red_Sea_Resort_Phase_2",
+  "project_folder_path": "D:\\New SAMCO Dashboard\\project_controls_hub\\rev04 project_controls_hub\\projects\\Maintenance\\Red_Sea_Resort_Phase_2",
+  "sector_source": "folder"
+}

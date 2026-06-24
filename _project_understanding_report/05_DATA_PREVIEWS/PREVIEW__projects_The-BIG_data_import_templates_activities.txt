@@ -1,0 +1,30 @@
+﻿activity_id,activity_name,wbs_code,planned_start,planned_finish,actual_start,actual_finish,duration_planned,duration_actual,progress_percent,status
+KD-MS-1000,Project Start Date,The Big - P.01 - UP-24-MAY-26.KD.MI,11-Sep-25,,11-Sep-25,,0,0,100%,Completed
+KD-MS-1010,Contract Agreement,The Big - P.01 - UP-24-MAY-26.KD.MI,11-Sep-25,,11-Sep-25,,0,0,100%,Completed
+KD-MS-1020,IFC Drawing Package,The Big - P.01 - UP-24-MAY-26.KD.MI,11-Sep-25,,11-Sep-25,,0,0,100%,Completed
+KD-MOB-1000,Surveying Works,The Big - P.01 - UP-24-MAY-26.KD.MO,11-Sep-25,28-Sep-25,13-Sep-25,29-Sep-25,18,18,100%,Completed
+KD-MOB-1010,Equipment Mobilization,The Big - P.01 - UP-24-MAY-26.KD.MO,11-Sep-25,28-Sep-25,13-Sep-25,29-Sep-25,60,60,100%,In Progress - Delayed
+KD-MOB-1020,Site Preparation,The Big - P.01 - UP-24-MAY-26.KD.MO,11-Sep-25,28-Sep-25,13-Sep-25,29-Sep-25,18,18,100%,In Progress - Delayed
+P-MS-1000,Submittal for RFT Rebar,The Big - P.01 - UP-24-MAY-26.P.MS.SS,11-Sep-25,1-Oct-25,11-Sep-25,1-Oct-25,8,8,100%,In Progress - Delayed
+E-DR-1000,Design Review,The Big - P.01 - UP-24-MAY-26.EN.1,11-Sep-25,9-Nov-25,11-Sep-25,9-Nov-25,15,15,100%,
+E-SUB-B01-REP-1000,Submittal for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs  (B01),The Big - P.01 - UP-24-MAY-26.EN.2.S.P02.B01.SUB.1,11-Sep-25,1-Oct-25,11-Sep-25,13-Nov-25,15,15,100%,
+E-SUB-B02-REP-1000,Submittal for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs (B02),The Big - P.01 - UP-24-MAY-26.EN.2.S.P02.B02.SUB.1,11-Sep-25,20-Sep-25,11-Sep-25,20-Sep-25,15,15,100%,
+E-SUB-B04-WT-1000,Submittal for PC Raft Conc. Dim. DWGs (B04) (Water Tank),The Big - P.01 - UP-24-MAY-26.EN.2.S.P01.B04.SUB.2ndB.1,13-Sep-25,2-Oct-25,1-Nov-25,20-Nov-25,18,18,100%,
+P-MS-1020,Submittal for Soil Replacement,The Big - P.01 - UP-24-MAY-26.P.MS.SS,14-Sep-25,4-Oct-25,14-Sep-25,4-Oct-25,18,18,100%,
+P-MS-1010,Submittal for Plain Concrete,The Big - P.01 - UP-24-MAY-26.P.MS.SS,14-Sep-25,4-Oct-25,14-Sep-25,4-Oct-25,18,18,100%,
+E-SUB-B04-WT-1010,Submittal for RC Raft Conc. Dim. DWGs (B04) (Water Tank),The Big - P.01 - UP-24-MAY-26.EN.2.S.P01.B04.SUB.2ndB.1,16-Sep-25,7-Oct-25,4-Nov-25,24-Nov-25,18,18,100%,
+E-SUB-B04-WT-1020,Submittal for RC Raft RFT DWGs (B04) (Water Tank),The Big - P.01 - UP-24-MAY-26.EN.2.S.P01.B04.SUB.2ndB.1,20-Sep-25,11-Oct-25,8-Nov-25,27-Nov-25,18,18,100%,
+P-MS-1030,Submittal for Rc Concrete,The Big - P.01 - UP-24-MAY-26.P.MS.SS,21-Sep-25,12-Oct-25,21-Sep-25,12-Oct-25,10,10,100%,
+E-SUB-B04-FOOT-1000,Submittal for  Waterproofing Layout Plan (B04),The Big - P.01 - UP-24-MAY-26.EN.2.S.P01.B04.SUB.F,21-Sep-25,12-Oct-25,21-Sep-25,12-Oct-25,10,10,100%,
+E-SUB-B04-WT-1030,Submittal for Col. & Walls DWGs (B04) (Water Tank),The Big - P.01 - UP-24-MAY-26.EN.2.S.P01.B04.SUB.2ndB.1,23-Sep-25,14-Oct-25,12-Nov-25,30-Nov-25,18,18,100%,
+P-MS-1040,Submittal for Waterproofing,The Big - P.01 - UP-24-MAY-26.P.MS.SS,23-Sep-25,14-Oct-25,23-Sep-25,14-Oct-25,18,18,100%,
+P-MS-1050,Submittal for cold applied damp-proofing,The Big - P.01 - UP-24-MAY-26.P.MS.SS,23-Sep-25,14-Oct-25,23-Sep-25,14-Oct-25,18,18,100%,
+P-MS-1060,Submittal for cold Crystalline waterproofing for Water tank,The Big - P.01 - UP-24-MAY-26.P.MS.SS,23-Sep-25,14-Oct-25,23-Sep-25,14-Oct-25,10,10,100%,
+E-APP-B02-REP-1000,Approval for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs (B02),The Big - P.01 - UP-24-MAY-26.EN.2.A.P02.B02.SUB.1,25-Sep-25,7-Oct-25,25-Sep-25,7-Oct-25,2,2,100%,
+E-SUB-B04-WT-1040,Submittal for Slabs DWGs (B04) (Water Tank),The Big - P.01 - UP-24-MAY-26.EN.2.S.P01.B04.SUB.2ndB.1,27-Sep-25,18-Oct-25,14-Nov-25,30-Nov-25,18,18,100%,
+E-SUB-B03-REP-1000,Submittal for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs (B03),The Big - P.01 - UP-24-MAY-26.EN.2.S.P01.B03.SUB.1,27-Sep-25,18-Oct-25,27-Sep-25,18-Oct-25,18,18,100%,
+E-SUB-B01-FOOT-1000,Submittal for PC Raft Conc. Dim. DWGs (B01) (footing),The Big - P.01 - UP-24-MAY-26.EN.2.S.P02.B01.SUB.F,1-Oct-25,22-Oct-25,16-Sep-25,27-Oct-25,18,18,100%,
+P-MA-1000,Approval for RFT Rebar,The Big - P.01 - UP-24-MAY-26.P.MS.SA,2-Oct-25,14-Oct-25,2-Oct-25,14-Oct-25,10,10,100%,
+E-APP-B01-REP-1000,Approval for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs (B01),The Big - P.01 - UP-24-MAY-26.EN.2.A.P02.B01.SUB.1,2-Oct-25,14-Oct-25,2-Oct-25,23-Nov-25,10,10,100%,
+E-APP-B04-WT-1000,Approval for PC Raft Conc. Dim. DWGs (B04) (Water Tank),The Big - P.01 - UP-24-MAY-26.EN.2.A.P01.B04.SUB.2ndF.WT,4-Oct-25,15-Oct-25,7-Oct-25,17-Dec-25,10,10,100%,
+E-SUB-B01-FOOT-1010,Submittal for RC Raft & Footings Conc. Dim. DWGs (B01) (footing),The Big - P.01 - UP-24-MAY-26.EN.2.S.P02.B01.SUB.F,5-Oct-25,26-Oct-25,5-Oct-25,27-Oct-25,18,18,100%,

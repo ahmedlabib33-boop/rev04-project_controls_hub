@@ -1,0 +1,4 @@
+﻿event_id,event_description,event_type,start_date,end_date,duration_days,responsibility,entitlement,affected_activities,status
+DE-001,Steel delivery delayed from supplier,material_delay,2024-02-20,2024-03-10,18,employer,yes,A003;A004,open
+DE-002,Heavy rainfall stopped excavation,weather,2024-01-25,2024-01-28,3,shared,no,A001,closed
+DE-003,Design drawing approval delayed,approval_delay,2024-03-05,2024-03-20,15,employer,yes,A004;A005,open

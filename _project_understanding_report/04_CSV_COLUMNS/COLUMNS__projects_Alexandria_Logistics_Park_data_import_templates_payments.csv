@@ -1,0 +1,7 @@
+﻿"CsvFile","CurrentFolder","RelativePath","Delimiter","ColumnOrder","ColumnName","ColumnCount","FileSizeKB","Modified"
+"payments.csv","projects\Alexandria_Logistics_Park\data\import_templates","projects\Alexandria_Logistics_Park\data\import_templates\payments.csv",",","1","payment_id","6","0.3","6/23/2026 5:10:52 PM"
+"payments.csv","projects\Alexandria_Logistics_Park\data\import_templates","projects\Alexandria_Logistics_Park\data\import_templates\payments.csv",",","2","invoice_date","6","0.3","6/23/2026 5:10:52 PM"
+"payments.csv","projects\Alexandria_Logistics_Park\data\import_templates","projects\Alexandria_Logistics_Park\data\import_templates\payments.csv",",","3","amount_certified","6","0.3","6/23/2026 5:10:52 PM"
+"payments.csv","projects\Alexandria_Logistics_Park\data\import_templates","projects\Alexandria_Logistics_Park\data\import_templates\payments.csv",",","4","amount_paid","6","0.3","6/23/2026 5:10:52 PM"
+"payments.csv","projects\Alexandria_Logistics_Park\data\import_templates","projects\Alexandria_Logistics_Park\data\import_templates\payments.csv",",","5","retention","6","0.3","6/23/2026 5:10:52 PM"
+"payments.csv","projects\Alexandria_Logistics_Park\data\import_templates","projects\Alexandria_Logistics_Park\data\import_templates\payments.csv",",","6","status","6","0.3","6/23/2026 5:10:52 PM"

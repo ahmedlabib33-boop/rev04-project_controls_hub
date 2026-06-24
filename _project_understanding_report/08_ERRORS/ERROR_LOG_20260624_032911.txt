@@ -1,0 +1,565 @@
+﻿PROJECT CONTROLS HUB - ERROR LOG
+Generated: 06/24/2026 03:29:20
+
+Script Errors: 0
+CSV Errors: 93
+Python Syntax Errors: 0
+Health Warnings: 20
+
+CSV ERRORS
+
+
+CsvFile      : activities.csv
+RelativePath : projects\Alexandria_Logistics_Park\data\import_templates\activities.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 2 has 12 columns. Expected 11
+
+CsvFile      : activities.csv
+RelativePath : projects\Alexandria_Logistics_Park\data\import_templates\activities.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 3 has 12 columns. Expected 11
+
+CsvFile      : activities.csv
+RelativePath : projects\Alexandria_Logistics_Park\data\import_templates\activities.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 7 has 12 columns. Expected 11
+
+CsvFile      : wbs.csv
+RelativePath : projects\Alexandria_Logistics_Park\data\import_templates\wbs.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 3 has 6 columns. Expected 5
+
+CsvFile      : wbs.csv
+RelativePath : projects\Alexandria_Logistics_Park\data\import_templates\wbs.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 7 has 6 columns. Expected 5
+
+CsvFile      : activities.csv
+RelativePath : projects\Cairo_East_Hospital\data\import_templates\activities.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 2 has 12 columns. Expected 11
+
+CsvFile      : activities.csv
+RelativePath : projects\Cairo_East_Hospital\data\import_templates\activities.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 3 has 12 columns. Expected 11
+
+CsvFile      : activities.csv
+RelativePath : projects\Cairo_East_Hospital\data\import_templates\activities.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 7 has 12 columns. Expected 11
+
+CsvFile      : wbs.csv
+RelativePath : projects\Cairo_East_Hospital\data\import_templates\wbs.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 3 has 6 columns. Expected 5
+
+CsvFile      : wbs.csv
+RelativePath : projects\Cairo_East_Hospital\data\import_templates\wbs.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 7 has 6 columns. Expected 5
+
+CsvFile      : activities.csv
+RelativePath : projects\Delta_Water_Treatment_Plant\data\import_templates\activities.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 2 has 12 columns. Expected 11
+
+CsvFile      : activities.csv
+RelativePath : projects\Delta_Water_Treatment_Plant\data\import_templates\activities.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 3 has 12 columns. Expected 11
+
+CsvFile      : activities.csv
+RelativePath : projects\Delta_Water_Treatment_Plant\data\import_templates\activities.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 7 has 12 columns. Expected 11
+
+CsvFile      : wbs.csv
+RelativePath : projects\Delta_Water_Treatment_Plant\data\import_templates\wbs.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 3 has 6 columns. Expected 5
+
+CsvFile      : wbs.csv
+RelativePath : projects\Delta_Water_Treatment_Plant\data\import_templates\wbs.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 7 has 6 columns. Expected 5
+
+CsvFile      : activities.csv
+RelativePath : projects\New_Capital_Roads_Package\data\import_templates\activities.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 2 has 12 columns. Expected 11
+
+CsvFile      : activities.csv
+RelativePath : projects\New_Capital_Roads_Package\data\import_templates\activities.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 3 has 12 columns. Expected 11
+
+CsvFile      : activities.csv
+RelativePath : projects\New_Capital_Roads_Package\data\import_templates\activities.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 7 has 12 columns. Expected 11
+
+CsvFile      : wbs.csv
+RelativePath : projects\New_Capital_Roads_Package\data\import_templates\wbs.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 3 has 6 columns. Expected 5
+
+CsvFile      : wbs.csv
+RelativePath : projects\New_Capital_Roads_Package\data\import_templates\wbs.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 7 has 6 columns. Expected 5
+
+CsvFile      : activities.csv
+RelativePath : projects\Nile_Bridges_Upgrade\data\import_templates\activities.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 2 has 12 columns. Expected 11
+
+CsvFile      : activities.csv
+RelativePath : projects\Nile_Bridges_Upgrade\data\import_templates\activities.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 3 has 12 columns. Expected 11
+
+CsvFile      : activities.csv
+RelativePath : projects\Nile_Bridges_Upgrade\data\import_templates\activities.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 7 has 12 columns. Expected 11
+
+CsvFile      : wbs.csv
+RelativePath : projects\Nile_Bridges_Upgrade\data\import_templates\wbs.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 3 has 6 columns. Expected 5
+
+CsvFile      : wbs.csv
+RelativePath : projects\Nile_Bridges_Upgrade\data\import_templates\wbs.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 7 has 6 columns. Expected 5
+
+CsvFile      : activities.csv
+RelativePath : projects\Red_Sea_Resort_Phase_2\data\import_templates\activities.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 2 has 12 columns. Expected 11
+
+CsvFile      : activities.csv
+RelativePath : projects\Red_Sea_Resort_Phase_2\data\import_templates\activities.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 3 has 12 columns. Expected 11
+
+CsvFile      : activities.csv
+RelativePath : projects\Red_Sea_Resort_Phase_2\data\import_templates\activities.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 7 has 12 columns. Expected 11
+
+CsvFile      : wbs.csv
+RelativePath : projects\Red_Sea_Resort_Phase_2\data\import_templates\wbs.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 3 has 6 columns. Expected 5
+
+CsvFile      : wbs.csv
+RelativePath : projects\Red_Sea_Resort_Phase_2\data\import_templates\wbs.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 7 has 6 columns. Expected 5
+
+CsvFile      : 12-client_steel_demand_by_dia_wide.csv
+RelativePath : projects\The-BIG\data\delay_analysis\steel_delay_tia_templates\12-client_steel_demand_by_dia_wide.csv
+ErrorType    : Duplicate Column
+Details      : Column repeated: RFT for Walls Count: 2
+
+CsvFile      : change_orders.csv
+RelativePath : projects\The-BIG\data\import_templates\change_orders.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 2 has 16 columns. Expected 12
+
+CsvFile      : projects.csv
+RelativePath : projects\The-BIG\data\import_templates\projects.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 2 has 16 columns. Expected 14
+
+CsvFile      : rfi_ status.csv
+RelativePath : projects\The-BIG\data\import_templates\rfi_ status.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 2 has 10 columns. Expected 8
+
+CsvFile      : rfi_ status.csv
+RelativePath : projects\The-BIG\data\import_templates\rfi_ status.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 3 has 11 columns. Expected 8
+
+CsvFile      : rfi_ status.csv
+RelativePath : projects\The-BIG\data\import_templates\rfi_ status.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 5 has 11 columns. Expected 8
+
+CsvFile      : rft_qtys.csv
+RelativePath : projects\The-BIG\data\import_templates\rft_qtys.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 6 has 23 columns. Expected 22
+
+CsvFile      : rft_qtys.csv
+RelativePath : projects\The-BIG\data\import_templates\rft_qtys.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 12 has 23 columns. Expected 22
+
+CsvFile      : rft_qtys.csv
+RelativePath : projects\The-BIG\data\import_templates\rft_qtys.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 15 has 23 columns. Expected 22
+
+CsvFile      : rft_qtys.csv
+RelativePath : projects\The-BIG\data\import_templates\rft_qtys.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 20 has 23 columns. Expected 22
+
+CsvFile      : rft_qtys.csv
+RelativePath : projects\The-BIG\data\import_templates\rft_qtys.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 23 has 23 columns. Expected 22
+
+CsvFile      : rft_qtys.csv
+RelativePath : projects\The-BIG\data\import_templates\rft_qtys.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 26 has 23 columns. Expected 22
+
+CsvFile      : rft_qtys.csv
+RelativePath : projects\The-BIG\data\import_templates\rft_qtys.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 29 has 23 columns. Expected 22
+
+CsvFile      : risks.csv
+RelativePath : projects\The-BIG\data\import_templates\risks.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 2 has 10 columns. Expected 8
+
+CsvFile      : risks.csv
+RelativePath : projects\The-BIG\data\import_templates\risks.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 3 has 10 columns. Expected 8
+
+CsvFile      : risks.csv
+RelativePath : projects\The-BIG\data\import_templates\risks.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 6 has 10 columns. Expected 8
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 2 has 20 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 3 has 20 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 4 has 22 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 5 has 21 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 6 has 20 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 7 has 20 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 8 has 24 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 9 has 23 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 10 has 22 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 11 has 20 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 12 has 20 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 13 has 22 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 14 has 20 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 15 has 21 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 16 has 22 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 17 has 23 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 18 has 22 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 19 has 23 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 20 has 25 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 21 has 20 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 22 has 25 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 23 has 20 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 24 has 22 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 25 has 23 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 26 has 22 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 27 has 23 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 28 has 22 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 29 has 23 columns. Expected 17
+
+CsvFile      : steel_activities_relationship.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_activities_relationship.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 30 has 22 columns. Expected 17
+
+CsvFile      : steel_delay_status_mployer_free_issue_material.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_delay_status_mployer_free_issue_material.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 2 has 18 columns. Expected 3
+
+CsvFile      : steel_delay_status_mployer_free_issue_material.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_delay_status_mployer_free_issue_material.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 3 has 25 columns. Expected 3
+
+CsvFile      : steel_delay_status_mployer_free_issue_material.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_delay_status_mployer_free_issue_material.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 4 has 33 columns. Expected 3
+
+CsvFile      : steel_delay_status_mployer_free_issue_material.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_delay_status_mployer_free_issue_material.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 5 has 33 columns. Expected 3
+
+CsvFile      : steel_delay_status_mployer_free_issue_material.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_delay_status_mployer_free_issue_material.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 6 has 20 columns. Expected 3
+
+CsvFile      : steel_delay_status_mployer_free_issue_material.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_delay_status_mployer_free_issue_material.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 7 has 20 columns. Expected 3
+
+CsvFile      : steel_delay_status_mployer_free_issue_material.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_delay_status_mployer_free_issue_material.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 8 has 20 columns. Expected 3
+
+CsvFile      : steel_delay_status_mployer_free_issue_material.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_delay_status_mployer_free_issue_material.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 9 has 20 columns. Expected 3
+
+CsvFile      : steel_delay_status_mployer_free_issue_material.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_delay_status_mployer_free_issue_material.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 10 has 20 columns. Expected 3
+
+CsvFile      : steel_delay_status_mployer_free_issue_material.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_delay_status_mployer_free_issue_material.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 11 has 20 columns. Expected 3
+
+CsvFile      : steel_delay_status_mployer_free_issue_material.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_delay_status_mployer_free_issue_material.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 12 has 20 columns. Expected 3
+
+CsvFile      : steel_delay_status_mployer_free_issue_material.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_delay_status_mployer_free_issue_material.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 13 has 20 columns. Expected 3
+
+CsvFile      : steel_delay_status_mployer_free_issue_material.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_delay_status_mployer_free_issue_material.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 14 has 20 columns. Expected 3
+
+CsvFile      : steel_delay_status_mployer_free_issue_material.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_delay_status_mployer_free_issue_material.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 15 has 20 columns. Expected 3
+
+CsvFile      : steel_delay_status_mployer_free_issue_material.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_delay_status_mployer_free_issue_material.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 16 has 20 columns. Expected 3
+
+CsvFile      : steel_delay_status_mployer_free_issue_material.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_delay_status_mployer_free_issue_material.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 17 has 20 columns. Expected 3
+
+CsvFile      : steel_delay_status_mployer_free_issue_material.csv
+RelativePath : projects\The-BIG\data\import_templates\steel_delay_status_mployer_free_issue_material.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 18 has 20 columns. Expected 3
+
+CsvFile      : wbs.csv
+RelativePath : projects\The-BIG\data\import_templates\wbs.csv
+ErrorType    : Irregular Preview Row
+Details      : Row 3 has 6 columns. Expected 5
+
+
+
+
+HEALTH WARNINGS
+
+
+WarningType : Duplicate File Name
+Details     : File exists 3 times.
+Path        : README.md
+
+WarningType : Duplicate File Name
+Details     : File exists 9 times.
+Path        : project_manifest.json
+
+WarningType : Duplicate File Name
+Details     : File exists 8 times.
+Path        : contract_claims.db
+
+WarningType : Duplicate File Name
+Details     : File exists 8 times.
+Path        : activities.csv
+
+WarningType : Duplicate File Name
+Details     : File exists 8 times.
+Path        : contracts.csv
+
+WarningType : Duplicate File Name
+Details     : File exists 8 times.
+Path        : delay_events.csv
+
+WarningType : Duplicate File Name
+Details     : File exists 8 times.
+Path        : payments.csv
+
+WarningType : Duplicate File Name
+Details     : File exists 8 times.
+Path        : risks.csv
+
+WarningType : Duplicate File Name
+Details     : File exists 8 times.
+Path        : steel_status.csv
+
+WarningType : Duplicate File Name
+Details     : File exists 8 times.
+Path        : s_curve.csv
+
+WarningType : Duplicate File Name
+Details     : File exists 8 times.
+Path        : wbs.csv
+
+WarningType : Duplicate File Name
+Details     : File exists 8 times.
+Path        : system.log
+
+WarningType : Duplicate File Name
+Details     : File exists 2 times.
+Path        : Overall Contract.pdf
+
+WarningType : Duplicate File Name
+Details     : File exists 2 times.
+Path        : BL critical path.csv
+
+WarningType : Duplicate File Name
+Details     : File exists 2 times.
+Path        : BL float bath.csv
+
+WarningType : Duplicate File Name
+Details     : File exists 2 times.
+Path        : Bl Longest bath.csv
+
+WarningType : Duplicate File Name
+Details     : File exists 2 times.
+Path        : BL Schedule.csv
+
+WarningType : Duplicate File Name
+Details     : File exists 2 times.
+Path        : MEP Activities.csv
+
+WarningType : Duplicate File Name
+Details     : File exists 2 times.
+Path        : MEP Civil Logic.csv
+
+WarningType : Duplicate File Name
+Details     : File exists 2 times.
+Path        : MEP Schedule.csv
+
+
+
+

@@ -1,0 +1,6 @@
+﻿risk_id,risk_description,probability,impact,risk_score,mitigation,owner,status
+R001,Steel supply delay due to factory issues,4,4,16,Pre-order materials 8 weeks early,Project Manager,open
+R002,Weather delays during monsoon season,3,3,9,Schedule buffer in Q3,Site Manager,open
+R003,Design changes from client,2,4,8,Freeze design by milestone 3,Design Lead,mitigated
+R004,Subcontractor default,2,5,10,Pre-qualify all subcontractors,Contracts Manager,open
+R005,Permit approval delays,3,2,6,Submit applications early,Permit Coordinator,mitigated

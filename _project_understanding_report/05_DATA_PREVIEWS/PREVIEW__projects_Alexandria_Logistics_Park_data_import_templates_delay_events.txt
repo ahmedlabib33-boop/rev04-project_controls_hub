@@ -1,0 +1,4 @@
+﻿event_id,event_description,event_type,start_date,end_date,duration_days,responsibility,entitlement,affected_activities,status
+ALP-DE-001,Late authority permit response delayed engineering release and early works access,Permit / Authority Delay,2025-04-21,2025-05-13,23,Authority / Employer,EOT Potential,ALP-A002;ALP-A004,Closed - Impact Recorded
+ALP-DE-002,Long-lead material supplier slippage affected procurement release and downstream installation,Procurement Delay,2025-07-30,2025-08-29,31,Contractor / Supplier,Mitigation Required,ALP-A003;ALP-A005,Open
+ALP-DE-003,Design clarification cycle extended shop drawing approval for critical work front,RFI / Design Clarification,2025-09-18,2025-10-08,21,Engineer / Contractor,Concurrent Review Required,ALP-A004,Under Review

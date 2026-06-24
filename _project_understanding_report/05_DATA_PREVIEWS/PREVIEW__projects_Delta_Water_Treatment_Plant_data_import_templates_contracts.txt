@@ -1,0 +1,2 @@
+﻿contract_id,contract_name,contract_value,signed_date,completion_date,status,party_employer,party_contractor
+DWTP-CON-001,Infrastructure / Utilities EPC Works - Delta Water Treatment Plant,410000000,2025-06-01,2027-03-31,Active,Delta Water Holding Company,AquaCivil EPC

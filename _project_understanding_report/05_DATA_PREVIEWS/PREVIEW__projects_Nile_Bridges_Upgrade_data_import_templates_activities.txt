@@ -1,0 +1,7 @@
+﻿activity_id,activity_name,wbs_code,planned_start,planned_finish,actual_start,actual_finish,duration_planned,duration_actual,progress_percent,status
+NBU-A001,"Mobilization, Survey and Temporary Facilities",NBU-PM,2025-05-15,2025-06-04,2025-05-15,2025-06-08,21,25,100,Completed
+NBU-A002,"Design Review, Permits and Authority Approvals",NBU-ENG,2025-05-25,2025-08-13,2025-05-30,2025-09-07,81,101,100,Completed
+NBU-A003,Procurement of Long Lead Materials,NBU-PROC,2025-06-29,2025-10-27,2025-07-14,,121,327,78,In Progress
+NBU-A004,Main Civil and Structural Works,NBU-CIV,2025-08-03,2026-03-21,2025-08-23,,231,287,55,In Progress
+NBU-A005,MEP First Fix and Specialist Systems Installation,NBU-MEP,2025-12-21,2026-07-19,2026-01-30,,211,127,22,In Progress
+NBU-A006,"Testing, Commissioning and Client Handover",NBU-COM,2026-08-18,2026-11-06,,,81,,0,Not Started

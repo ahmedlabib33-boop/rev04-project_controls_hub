@@ -1,0 +1,5 @@
+﻿payment_id,invoice_date,amount_certified,amount_paid,retention,status
+PAY-001,2024-01-31,450000,427500,22500,paid
+PAY-002,2024-02-29,380000,361000,19000,paid
+PAY-003,2024-03-31,520000,494000,26000,pending
+PAY-004,2024-04-30,410000,389500,20500,pending

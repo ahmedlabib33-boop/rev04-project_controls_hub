@@ -1,0 +1,7 @@
+﻿"CsvFile","CurrentFolder","RelativePath","Delimiter","ColumnOrder","ColumnName","ColumnCount","FileSizeKB","Modified"
+"05- relationship_file.csv","projects\The-BIG\data\delay_analysis\steel_delay_tia_templates","projects\The-BIG\data\delay_analysis\steel_delay_tia_templates\05- relationship_file.csv",",","1","project_id","6","0.08","6/15/2026 10:54:55 PM"
+"05- relationship_file.csv","projects\The-BIG\data\delay_analysis\steel_delay_tia_templates","projects\The-BIG\data\delay_analysis\steel_delay_tia_templates\05- relationship_file.csv",",","2","Activity ID","6","0.08","6/15/2026 10:54:55 PM"
+"05- relationship_file.csv","projects\The-BIG\data\delay_analysis\steel_delay_tia_templates","projects\The-BIG\data\delay_analysis\steel_delay_tia_templates\05- relationship_file.csv",",","3","Activity Name","6","0.08","6/15/2026 10:54:55 PM"
+"05- relationship_file.csv","projects\The-BIG\data\delay_analysis\steel_delay_tia_templates","projects\The-BIG\data\delay_analysis\steel_delay_tia_templates\05- relationship_file.csv",",","4","Predecessors","6","0.08","6/15/2026 10:54:55 PM"
+"05- relationship_file.csv","projects\The-BIG\data\delay_analysis\steel_delay_tia_templates","projects\The-BIG\data\delay_analysis\steel_delay_tia_templates\05- relationship_file.csv",",","5","Predecessor Details","6","0.08","6/15/2026 10:54:55 PM"
+"05- relationship_file.csv","projects\The-BIG\data\delay_analysis\steel_delay_tia_templates","projects\The-BIG\data\delay_analysis\steel_delay_tia_templates\05- relationship_file.csv",",","6","Successors","6","0.08","6/15/2026 10:54:55 PM"

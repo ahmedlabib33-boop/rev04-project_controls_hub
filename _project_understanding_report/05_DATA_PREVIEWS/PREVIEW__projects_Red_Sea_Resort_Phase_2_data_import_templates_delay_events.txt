@@ -1,0 +1,4 @@
+﻿event_id,event_description,event_type,start_date,end_date,duration_days,responsibility,entitlement,affected_activities,status
+RSR2-DE-001,Late authority permit response delayed engineering release and early works access,Permit / Authority Delay,2025-10-21,2025-11-12,23,Authority / Employer,EOT Potential,RSR2-A002;RSR2-A004,Closed - Impact Recorded
+RSR2-DE-002,Long-lead material supplier slippage affected procurement release and downstream installation,Procurement Delay,2026-01-29,2026-02-28,31,Contractor / Supplier,Mitigation Required,RSR2-A003;RSR2-A005,Open
+RSR2-DE-003,Design clarification cycle extended shop drawing approval for critical work front,RFI / Design Clarification,2026-03-20,2026-04-09,21,Engineer / Contractor,Concurrent Review Required,RSR2-A004,Under Review

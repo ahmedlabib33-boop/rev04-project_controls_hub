@@ -1,0 +1,2 @@
+﻿contract_id,contract_name,contract_value,signed_date,completion_date,status,party_employer,party_contractor
+BIG-CON-001,Construction Contract for Building and Engineering Works - Civil Works at The Big Project,367286025,2025-09-01,2027-04-11,Active - Delayed,Roya for Real Estate Investment,Samco Al-Wataniya for Construction

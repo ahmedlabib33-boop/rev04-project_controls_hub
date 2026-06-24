@@ -1,0 +1,7 @@
+﻿activity_id,activity_name,wbs_code,planned_start,planned_finish,actual_start,actual_finish,duration_planned,duration_actual,progress_percent,status
+RSR2-A001,"Mobilization, Survey and Temporary Facilities",RSR2-PM,2025-10-01,2025-10-21,2025-10-01,2025-10-25,21,25,100,Completed
+RSR2-A002,"Design Review, Permits and Authority Approvals",RSR2-ENG,2025-10-11,2025-12-30,2025-10-16,2026-01-24,81,101,100,Completed
+RSR2-A003,Procurement of Long Lead Materials,RSR2-PROC,2025-11-15,2026-03-15,2025-11-30,,121,188,78,In Progress
+RSR2-A004,Main Civil and Structural Works,RSR2-CIV,2025-12-20,2026-08-07,2026-01-09,,231,148,55,In Progress
+RSR2-A005,MEP First Fix and Specialist Systems Installation,RSR2-MEP,2026-05-09,2026-12-05,2026-06-18,,211,0,22,In Progress
+RSR2-A006,"Testing, Commissioning and Client Handover",RSR2-COM,2027-01-04,2027-03-25,,,81,,0,Not Started

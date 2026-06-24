@@ -1,0 +1,7 @@
+﻿wbs_code,wbs_name,level,parent_code,weight
+NCAP-PM,Project Management and Controls,1,,5
+NCAP-ENG,"Engineering, Permits and Approvals",1,,10
+NCAP-PROC,Procurement and Long Lead Materials,1,,15
+NCAP-CIV,Civil and Structural Works,1,,35
+NCAP-MEP,MEP and Specialist Systems,1,,20
+NCAP-COM,"Testing, Commissioning and Handover",1,,15

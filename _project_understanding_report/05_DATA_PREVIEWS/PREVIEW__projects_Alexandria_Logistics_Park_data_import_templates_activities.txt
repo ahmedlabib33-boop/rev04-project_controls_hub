@@ -1,0 +1,7 @@
+﻿activity_id,activity_name,wbs_code,planned_start,planned_finish,actual_start,actual_finish,duration_planned,duration_actual,progress_percent,status
+ALP-A001,"Mobilization, Survey and Temporary Facilities",ALP-PM,2025-04-01,2025-04-21,2025-04-01,2025-04-25,21,25,100,Completed
+ALP-A002,"Design Review, Permits and Authority Approvals",ALP-ENG,2025-04-11,2025-06-30,2025-04-16,2025-07-25,81,101,100,Completed
+ALP-A003,Procurement of Long Lead Materials,ALP-PROC,2025-05-16,2025-09-13,2025-05-31,,121,371,78,In Progress
+ALP-A004,Main Civil and Structural Works,ALP-CIV,2025-06-20,2026-02-05,2025-07-10,,231,331,55,In Progress
+ALP-A005,MEP First Fix and Specialist Systems Installation,ALP-MEP,2025-11-07,2026-06-05,2025-12-17,,211,171,22,In Progress
+ALP-A006,"Testing, Commissioning and Client Handover",ALP-COM,2026-07-05,2026-09-23,,,81,,0,Not Started

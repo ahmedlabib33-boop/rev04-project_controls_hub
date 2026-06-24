@@ -1,0 +1,30 @@
+﻿project_id,wbs_id,cost_code,activity_name,budget_cost,committed_cost,actual_cost,forecast_cost
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P01.B04.SUP.RF,E-APP-B04-RF-1010,Approval for  Beams Conc. Dim.  & RFT DWGs (B04) (RF),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.HO.1.A.P01.B04.SUP.RF,AB-APP-B04-RF-1020,Approval for  Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (RF),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.HO.1.A.P01.B03.SUB.1,AB-APP-B03-FOOT-1030,Approval for  Waterproofing Layout Plan  DWGs As-Built Drawing(B03),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P02.B01.SUB.F,E-APP-B01-FOOT-1030,Approval for  Waterproofing Layout Plan (B01),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P02.B02.SUB.F,E-APP-B02-FOOT-1030,Approval for  Waterproofing Layout Plan (B02),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P01.B03.SUB.1,E-APP-B03-FOOT-1000,Approval for  Waterproofing Layout Plan (B03),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P01.B04.SUB.F,E-APP-B04-FOOT-1000,Approval for  Waterproofing Layout Plan (B04),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.HO.1.A.P01.B04.SUB.F,AB-APP-B04-FOOT-1030,Approval for  Waterproofing Layout Plan (B04),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.HO.1.A.P02.B02.SUB.F,AB-APP-B02-FOOT-1030,Approval for  Waterproofing Layout Plan DWGs As-Built Drawing  (B02),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.HO.1.A.P02.B01.SUB.F,AB-APP-B01-FOOT-1010,Approval for  Waterproofing Layout Plan DWGs As-Built Drawing (B01),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P01.B03.SUP.1stF,E-APP-B03-1ST-1020,Approval for Beams Conc. Dim.  & RFT DWGs  (B03) (1st),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P01.B03.SUP.2ndF,E-APP-B03-2ND-1020,Approval for Beams Conc. Dim.  & RFT DWGs  (B03) (2nd),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P01.B03.SUP.3rdF,E-APP-B03-3RD-1020,Approval for Beams Conc. Dim.  & RFT DWGs  (B03) (3rd),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P01.B03.SUP.4thF,E-APP-B03-4TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs  (B03) (4th),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P01.B03.SUB.2,E-APP-B03-BAS01-1020,Approval for Beams Conc. Dim.  & RFT DWGs  (B03) (Bas 01),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P01.B03.SUB.3,E-APP-B03-BAS02-1020,Approval for Beams Conc. Dim.  & RFT DWGs  (B03) (Bas 02),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P01.B03.SUP.GF,E-APP-B03-GR-1020,Approval for Beams Conc. Dim.  & RFT DWGs  (B03) (GF),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P01.B03.SUP.RF,E-APP-B03-RF-1010,Approval for Beams Conc. Dim.  & RFT DWGs  (B03) (RF),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P02.B01.SUP.GF,E-APP-B01-GR-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B01)  (GF),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P02.B01.SUP.1stF,E-APP-B01-1ST-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B01) (1st),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P02.B01.SUP.2ndF,E-APP-B01-2ND-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B01) (2nd),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P02.B01.SUP.3rdF,E-APP-B01-3ED-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B01) (3rd),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P02.B01.SUP.4thF,E-APP-B01-4TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B01) (4th),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P02.B01.SUP.5thF,E-APP-B01-5TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B01) (5th),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P02.B01.SUP.6thF,E-APP-B01-6TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B01) (6th),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P02.B01.SUP.7thF,E-APP-B01-7TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B01) (7th),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P02.B01.SUP.8thF,E-APP-B01-8TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B01) (8th),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P02.B01.SUB.1stB,E-APP-B01-BAS01-1030,Approval for Beams Conc. Dim.  & RFT DWGs (B01) (Bas 01),0,0,0,0
+The Big -P.01-UP-20-April-26,The Big -P.01-UP-20-April-26.EN.2.A.P02.B01.SUB.2ndB,E-APP-B01-BAS02-1030,Approval for Beams Conc. Dim.  & RFT DWGs (B01) (Bas 02),0,0,0,0

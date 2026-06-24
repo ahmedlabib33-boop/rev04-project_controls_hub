@@ -1,0 +1,53 @@
+﻿PROJECT CONTROLS HUB - DEEP UNDERSTANDING REPORT
+
+Project Root: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub
+Generated: 06/24/2026 03:29:19
+
+EXECUTIVE SNAPSHOT
+Total Files: 192
+Total Folders: 213
+Total Size MB: 10.22
+Python Files: 35
+CSV Files: 113
+CSV Columns Extracted: 1146
+Script Errors: 0
+CSV Errors: 93
+Python Syntax Errors: 0
+Health Warnings: 20
+
+REPORT FOLDERS
+01_MAIN_REPORT: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub\_project_understanding_report\01_MAIN_REPORT
+02_FILE_INVENTORY: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub\_project_understanding_report\02_FILE_INVENTORY
+03_FOLDER_MAPS: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub\_project_understanding_report\03_FOLDER_MAPS
+04_CSV_COLUMNS: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub\_project_understanding_report\04_CSV_COLUMNS
+05_DATA_PREVIEWS: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub\_project_understanding_report\05_DATA_PREVIEWS
+06_PYTHON_STRUCTURE: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub\_project_understanding_report\06_PYTHON_STRUCTURE
+07_RECOMMENDED_STRUCTURE: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub\_project_understanding_report\07_RECOMMENDED_STRUCTURE
+08_ERRORS: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub\_project_understanding_report\08_ERRORS
+
+KEY OUTPUTS
+Full File Inventory: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub\_project_understanding_report\02_FILE_INVENTORY\FULL_FILE_INVENTORY_20260624_032911.csv
+Folder Summary: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub\_project_understanding_report\03_FOLDER_MAPS\FOLDER_SUMMARY_20260624_032911.csv
+Folder File Map: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub\_project_understanding_report\03_FOLDER_MAPS\FOLDER_FILE_MAP_20260624_032911.csv
+CSV Columns Master: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub\_project_understanding_report\04_CSV_COLUMNS\CSV_COLUMNS_MASTER_20260624_032911.csv
+Python Structure: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub\_project_understanding_report\06_PYTHON_STRUCTURE\PYTHON_STRUCTURE_20260624_032911.csv
+Recommended Placement: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub\_project_understanding_report\07_RECOMMENDED_STRUCTURE\RECOMMENDED_FILE_PLACEMENT_20260624_032911.csv
+Error Log: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub\_project_understanding_report\08_ERRORS\ERROR_LOG_20260624_032911.txt
+
+ERROR OUTPUTS
+Script Errors: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub\_project_understanding_report\08_ERRORS\SCRIPT_ERRORS_20260624_032911.csv
+CSV Errors: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub\_project_understanding_report\08_ERRORS\CSV_ERRORS_20260624_032911.csv
+Python Syntax Errors: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub\_project_understanding_report\08_ERRORS\PYTHON_SYNTAX_ERRORS_20260624_032911.csv
+Project Health Warnings: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub\_project_understanding_report\08_ERRORS\PROJECT_HEALTH_WARNINGS_20260624_032911.csv
+Duplicate File Names: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub\_project_understanding_report\08_ERRORS\DUPLICATE_FILE_NAMES_20260624_032911.csv
+Empty Files: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub\_project_understanding_report\08_ERRORS\EMPTY_FILES_20260624_032911.csv
+Long Path Warnings: D:\New SAMCO Dashboard\project_controls_hub\rev04 project_controls_hub\_project_understanding_report\08_ERRORS\LONG_PATH_WARNINGS_20260624_032911.csv
+
+RECOMMENDED REVIEW ORDER
+1. Open 08_ERRORS first.
+2. Open CSV_ERRORS to fix bad CSV files.
+3. Open PYTHON_SYNTAX_ERRORS to fix broken Python files.
+4. Open PROJECT_HEALTH_WARNINGS for missing files and project risks.
+5. Open CSV_COLUMNS_MASTER to understand all CSV file columns.
+6. Open FULL_FILE_INVENTORY to understand where every file exists.
+7. Open FOLDER_SUMMARY and FOLDER_FILE_MAP to understand structure.

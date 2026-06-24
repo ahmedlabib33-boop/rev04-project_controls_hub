@@ -1,0 +1,6 @@
+﻿material_type,diameter,quantity,delivery_date,source,status
+Rebar,16mm,5000,2024-02-15,employer,delivered
+Rebar,20mm,3200,2024-02-20,employer,delayed
+Rebar,25mm,1800,2024-03-01,contractor,pending
+Mesh,6mm,2000,2024-02-25,employer,delivered
+Rebar,32mm,800,2024-03-15,contractor,pending

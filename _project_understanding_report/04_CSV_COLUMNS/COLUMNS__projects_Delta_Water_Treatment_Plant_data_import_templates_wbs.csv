@@ -1,0 +1,6 @@
+﻿"CsvFile","CurrentFolder","RelativePath","Delimiter","ColumnOrder","ColumnName","ColumnCount","FileSizeKB","Modified"
+"wbs.csv","projects\Delta_Water_Treatment_Plant\data\import_templates","projects\Delta_Water_Treatment_Plant\data\import_templates\wbs.csv",",","1","wbs_code","5","0.33","6/23/2026 5:10:52 PM"
+"wbs.csv","projects\Delta_Water_Treatment_Plant\data\import_templates","projects\Delta_Water_Treatment_Plant\data\import_templates\wbs.csv",",","2","wbs_name","5","0.33","6/23/2026 5:10:52 PM"
+"wbs.csv","projects\Delta_Water_Treatment_Plant\data\import_templates","projects\Delta_Water_Treatment_Plant\data\import_templates\wbs.csv",",","3","level","5","0.33","6/23/2026 5:10:52 PM"
+"wbs.csv","projects\Delta_Water_Treatment_Plant\data\import_templates","projects\Delta_Water_Treatment_Plant\data\import_templates\wbs.csv",",","4","parent_code","5","0.33","6/23/2026 5:10:52 PM"
+"wbs.csv","projects\Delta_Water_Treatment_Plant\data\import_templates","projects\Delta_Water_Treatment_Plant\data\import_templates\wbs.csv",",","5","weight","5","0.33","6/23/2026 5:10:52 PM"

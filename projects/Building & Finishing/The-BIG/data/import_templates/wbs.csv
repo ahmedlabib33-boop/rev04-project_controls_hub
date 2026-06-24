@@ -1,0 +1,8 @@
+﻿wbs_code,wbs_name,level,parent_code,weight
+BIG-PM,Project Management and Contract Administration,1,,5
+BIG-SITE,"Site Handover, Enabling and Utilities Rectification",1,,5
+BIG-B01,Building B01 Civil and Structural Works,1,,22
+BIG-B04,Building B04 Civil and Structural Works,1,,20
+BIG-B02,Building B02 Civil and Structural Works,1,,20
+BIG-B03,Building B03 Civil and Structural Works,1,,18
+BIG-WT,Water Tank Civil and Structural Works,1,,10

@@ -1,0 +1,6 @@
+﻿risk_id,risk_description,probability,impact,risk_score,mitigation,owner,status
+BIG-RISK-001,Employer free-issue steel deliveries remain inconsistent against approved programme,5,5,25,"Maintain steel demand forecast, issue early warnings, and update TIA fragnet monthly",Employer,Active
+BIG-RISK-002,IFC redesign and late responses may push basement and ground-floor structural sequence,4,5,20,"Track RFI/IFC aging, agree response deadlines, and isolate critical drawings",Engineer,Active
+BIG-RISK-003,RFI response delays impacting inspection readiness and pour approvals,4,4,16,Daily RFI dashboard with escalation matrix and look-ahead constraints,Engineer,Active
+BIG-RISK-004,MEP embedded-items coordination delays water tank and slab pours,4,4,16,Freeze MEP sleeve schedule and conduct weekly coordination workshops,Employer / MEP Contractor,Active
+BIG-RISK-005,Payment certification and cashflow timing may affect resources and subcontractor stability,3,4,12,"Prioritize IPC closeout, retention tracking, and cashflow recovery plan",Employer / Engineer,Watchlist

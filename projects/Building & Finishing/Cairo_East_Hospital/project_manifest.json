@@ -1,0 +1,19 @@
+{
+  "project_id": "9560c393-3d2b-40ee-a73f-2e70e47f1f1e",
+  "project_display_name": "Cairo East Hospital",
+  "status": "active",
+  "created_at": "2026-06-23T20:18:42.487573",
+  "updated_at": "2026-06-24T05:34:21.831975",
+  "version": "1.0.0",
+  "sector": "Building & Finishing",
+  "currency": "USD",
+  "contract_type": "lump_sum",
+  "parties": {
+    "employer": "",
+    "contractor": "",
+    "consultant": ""
+  },
+  "project_folder_name": "Cairo_East_Hospital",
+  "project_folder_path": "D:\\New SAMCO Dashboard\\project_controls_hub\\rev04 project_controls_hub\\projects\\Building & Finishing\\Cairo_East_Hospital",
+  "sector_source": "folder"
+}

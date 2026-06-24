@@ -1,0 +1,6 @@
+﻿risk_id,risk_description,probability,impact,risk_score,mitigation,owner,status
+DWTP-RISK-001,Late approvals could constrain critical work-front release,4,4,16,Escalate approval aging and freeze critical submittal calendar,Engineer / Contractor,Active
+DWTP-RISK-002,Material price escalation may pressure procurement budget,3,4,12,Lock supplier quotations and maintain alternative vendor matrix,Contractor,Watchlist
+DWTP-RISK-003,Resource productivity may fall below recovery plan requirements,3,5,15,Deploy productivity dashboard and weekly corrective action plan,Contractor,Active
+DWTP-RISK-004,Cashflow delay could reduce subcontractor momentum,3,4,12,Prioritize IPC certification and ring-fence critical subcontractors,Employer / Contractor,Watchlist
+DWTP-RISK-005,Testing interfaces may delay commissioning completion,2,4,8,Start early interface readiness reviews and commissioning checklists,Contractor,Future Risk

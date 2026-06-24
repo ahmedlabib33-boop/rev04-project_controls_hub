@@ -1,0 +1,5 @@
+﻿project_id,Activity ID,Activity Name,WBS,Baseline Start,Baseline Finish,Start,Finish,Actual Start,Actual Finish,Remaining Duration,Total Float,Free Float,Critical,Longest Path,Predecessors,Successors,Remaining Units,Budgeted Units,Physical % Complete
+Bridge-02,eng-foot-1,sub,engineering1,6/10/2026,6/20/2026,6/15/2026,6/25/2026,6/15/2026,6/25/2026,10,-5,-3,YES,YES,SDF,AAA,2,4,10
+Bridge-02,proc-foot-1,del,proc2,6/11/2026,6/21/2026,6/16/2026,6/26/2026,6/16/2026,6/26/2026,10,-5,-3,YES,YES,THG,DDD,2,4,10
+Bridge-02,const-foot-1,const,const3,6/12/2026,6/22/2026,6/17/2026,6/27/2026,6/17/2026,6/27/2026,10,-5,-3,YES,YES,JKJ,OOO,2,4,10
+Bridge-02,hand-foot-1,hand,hand4,6/13/2026,6/23/2026,6/18/2026,6/28/2026,6/18/2026,6/28/2026,10,-5,-3,YES,YES,FG,PPP,2,4,10
